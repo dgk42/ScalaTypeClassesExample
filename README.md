@@ -31,6 +31,7 @@
 - JDK 1.7 or higher
 
 - Sbt
+
   For instructions on installing sbt on your system, see [this](http://www.scala-sbt.org/0.13/tutorial/Manual-Installation.html).
 
 ## Contents
