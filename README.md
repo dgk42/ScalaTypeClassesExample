@@ -63,6 +63,10 @@ in the project's root directory.
 - IntelliJ
   Use the IDEA sbt plug-in to load the project
 
+## Presentation
+
+There's also a `.pdf` located in the root directory covering a presentation about the topic.
+
 ## Exercises for the reader
 
 - TODO tasks
