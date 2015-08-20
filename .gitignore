@@ -1,5 +1,6 @@
 target-*/
 log/
+.cache-*
 
 
 #### joe made this: https://goel.io/joe
